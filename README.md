@@ -1,23 +1,27 @@
 # Legal Documents
 
 各アプリの利用規約とプライバシーポリシーを管理するリポジトリです。
+GitHub Pages で公開し、ストアへの申請 URL として使用します。
 
-## ディレクトリ構造
+## URL 構成
 
 ```
-{アプリ名}/
-├── terms-of-service.md  # 利用規約
-└── privacy-policy.md    # プライバシーポリシー
+https://woodiespeck.github.io/legal/{アプリ名}/privacy-policy/
+https://woodiespeck.github.io/legal/{アプリ名}/terms-of-service/
 ```
-
-## 新しいアプリを追加する場合
-
-1. `template/` ディレクトリのファイルをコピー
-2. `{アプリ名}/` ディレクトリを作成
-3. 各ファイル内の `[アプリ名]`、`[会社名]`、`[メールアドレス]` を実際の内容に置き換える
 
 ## アプリ一覧
 
-| ディレクトリ | アプリ名 |
-|---|---|
-| `my-app/` | My App |
+| アプリ | プライバシーポリシー | 利用規約 |
+|---|---|---|
+| my-app | [リンク](https://woodiespeck.github.io/legal/my-app/privacy-policy/) | 準備中 |
+
+## GitHub Pages の有効化
+
+Settings → Pages → Source を `main` ブランチの `/ (root)` に設定してください。
+
+## 新しいアプリを追加する場合
+
+1. `{アプリ名}/privacy-policy/index.html` を作成
+2. `{アプリ名}/terms-of-service/index.html` を作成
+3. この README のアプリ一覧に追記
