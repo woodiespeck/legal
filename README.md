@@ -14,7 +14,7 @@ https://woodiespeck.github.io/legal/{アプリ名}/terms-of-service/
 
 | アプリ | プライバシーポリシー | 利用規約 |
 |---|---|---|
-| my-app | [リンク](https://woodiespeck.github.io/legal/my-app/privacy-policy/) | 準備中 |
+| woodiespeck-apps | [リンク](https://woodiespeck.github.io/legal/woodiespeck-apps/privacy-policy/) | 準備中 |
 
 ## GitHub Pages の有効化
 
