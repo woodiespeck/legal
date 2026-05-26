@@ -15,6 +15,8 @@ https://woodiespeck.github.io/legal/{アプリ名}/terms-of-service/
 | アプリ | プライバシーポリシー | 利用規約 |
 |---|---|---|
 | woodiespeck-apps | [リンク](https://woodiespeck.github.io/legal/woodiespeck-apps/privacy-policy/) | 準備中 |
+| my-app（買い物リスト） | [リンク](https://woodiespeck.github.io/legal/my-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/my-app/terms-of-service/) |
+| collection-app（コレボックス） | [リンク](https://woodiespeck.github.io/legal/collection-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/collection-app/terms-of-service/) |
 
 ## GitHub Pages の有効化
 
