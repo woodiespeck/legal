@@ -14,7 +14,7 @@ https://woodiespeck.github.io/legal/{アプリ名}/terms-of-service/
 
 | アプリ | プライバシーポリシー | 利用規約 |
 |---|---|---|
-| my-app（買い物リスト） | [リンク](https://woodiespeck.github.io/legal/my-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/my-app/terms-of-service/) |
+| famirista（ファミリスタ） | [リンク](https://woodiespeck.github.io/legal/famirista/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/famirista/terms-of-service/) |
 | collection-app（コレボックス） | [リンク](https://woodiespeck.github.io/legal/collection-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/collection-app/terms-of-service/) |
 
 ## GitHub Pages の有効化
