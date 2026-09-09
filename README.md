@@ -12,10 +12,12 @@ https://woodiespeck.github.io/legal/{アプリ名}/terms-of-service/
 
 ## アプリ一覧
 
-| アプリ | プライバシーポリシー | 利用規約 |
-|---|---|---|
-| famirista（ファミリスタ） | [リンク](https://woodiespeck.github.io/legal/famirista/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/famirista/terms-of-service/) |
-| collection-app（コレボックス） | [リンク](https://woodiespeck.github.io/legal/collection-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/collection-app/terms-of-service/) |
+| アプリ | プライバシーポリシー | 利用規約 | サポート |
+|---|---|---|---|
+| famirista（ファミリスタ） | [リンク](https://woodiespeck.github.io/legal/famirista/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/famirista/terms-of-service/) | [リンク](https://woodiespeck.github.io/legal/famirista/support/) |
+| collection-app（コレボックス） | [リンク](https://woodiespeck.github.io/legal/collection-app/privacy-policy/) | [リンク](https://woodiespeck.github.io/legal/collection-app/terms-of-service/) | — |
+
+サポートページは App Store Connect の「サポートURL」（必須項目）に登録する。
 
 ## GitHub Pages の有効化
 
